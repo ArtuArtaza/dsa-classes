@@ -1,0 +1,14 @@
+{
+	"name": "02---loop-invariants",
+	"module": "loop-invariants.ts",
+	"type": "module",
+	"devDependencies": {
+		"@types/bun": "latest"
+	},
+	"peerDependencies": {
+		"typescript": "^5.0.0"
+	},
+	"scripts": {
+		"test:max": "bun test max.test.ts"
+	}
+}
